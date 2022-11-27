@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yemzyking
 - 👀 I’m interested in making new friends 
-- 🌱 I’m currently learning front end developing
-- 💞️ I’m looking to collaborate on any projetto sharpen my skills
+- 🌱 I’m currently learning to code [front end dev]
+- 💞️ I’m looking to collaborate on any projet to sharpen my skills
 - 📫 How to reach me just say hi
 - 
 
