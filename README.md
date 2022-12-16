@@ -1,8 +1,6 @@
-Hello and Welcome 👋, I'm Oluyemi B. Benjamin 
+Hello and Welcome 👋, I'm Oluyemi Babatunde Benjamin 
 
 - 👀 I’m interested in making new friends 
-- ⚡ I'm Available for Remote Jobs/Gigs
-- 🌱 I’m currently learning to code [Front End #UIdev]
 - 💞️ I’m looking to collaborate on any projet to sharpen my skills
 - ⚡ Motto: The only easy day was yesterday.
 <!---
